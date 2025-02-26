@@ -1,0 +1,29 @@
+
+nav{
+    display: flex;
+    list-style-type:none;
+    justify-content: space-evenly;
+    background-color:rgb(26, 103, 185) ;
+    text-decoration: none;
+    padding: 15px;
+    color: whitesmoke;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    height: 30px;
+    text-align: center;
+    
+}
+.link{
+    background-color: rgb(26, 103, 185);
+    text-decoration:none;
+    color:rgb(0, 0, 0) ;
+    padding-top: 10px;
+}
+.link:hover{
+    color:rgb(214, 241, 9);
+}
+.content{
+    padding-top: 60px;
+}

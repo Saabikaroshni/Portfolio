@@ -1,0 +1,28 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 170px;
+    text-align: center;
+    font-size: xx-large;
+    min-height: 100vh;
+    font-size: xx-large;
+     /* Silver for a sleek effect */
+background: linear-gradient(360deg, #00CED1, #191970 150%);
+  }
+  body{
+    background-image: '/public/image.jpg';
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 0;
+    padding: 0;
+    overflow-y: auto;
+    height: 100vh;
+
+}
+  
+  
+
+  

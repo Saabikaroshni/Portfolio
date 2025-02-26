@@ -1,0 +1,15 @@
+
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+  text-align: center;
+  font-size: xx-large;
+
+background: linear-gradient(180deg, #00CED1, #191970 150%);
+}
+
+
+
